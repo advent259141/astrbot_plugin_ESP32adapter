@@ -1,0 +1,6 @@
+name: ESP32S3 WebSocket控制器
+description: 为ESP32S3设备提供WebSocket连接和消息转发功能，支持双向通信
+version: 1.0.0
+author: Jason.Joestar
+repo: https://github.com/advent259141/astrbot_plugin_ESP32adapter
+tags:
